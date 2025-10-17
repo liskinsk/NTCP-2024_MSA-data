@@ -1,5 +1,6 @@
 # NTCP-2025-MSA and data
-This site contains two Supplemental files associated with the manuscript "Amino acid substitutions at rheostat positions in the NTCP channel have pleiotropic effects" by Swint-Kruse, Ruggiero, and Hagenbuch.  This manuscript is currently under review.
+This site contains two Supplemental files associated with the manuscript "Amino acid substitutions at rheostat positions in the NTCP channel have pleiotropic effects" by Swint-Kruse, Ruggiero, and Hagenbuch.  Please cite:  Swint-Kruse L,
+Ruggiero MJ, Hagenbuch B. Amino acid substitutions at rheostat positions in the Na+/taurocholate cotransporting polypeptide substrate channel have pleiotropic effects. Protein Science.2025;34(11):e70313. https://doi.org/10.1002/pro.70313
 
 The multiple sequence alignment of homologs in the SLC10A1 family of transport proteins was created using ConSurf (https://consurf.tau.ac.il/consurf_index.php) from the parameters described in the Methods.
 
